@@ -12,9 +12,9 @@ body{
     background-position-x: center;
     background-position-y: center;
     background-size: cover; 
-
+    background-image: url('./images.jpg');
 }
 
  .fondosh{
-   
+
 }
